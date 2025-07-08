@@ -12,5 +12,9 @@
 
 Это демонстрация того, как даже без JS можно добиться визуально приятного и отзывчивого интерфейса.
 
-## 📂 Структура
+Скриншот сайта: <img width="1438" alt="image" src="https://github.com/user-attachments/assets/00b0fa5e-7ca8-4a14-ac3e-713b7964081a" />
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/c90290ae-0052-4140-b6f1-ffdc3a5716b0" />
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/c55dbbea-ac82-4efd-8847-53c81089b6df" />
+
+
 
